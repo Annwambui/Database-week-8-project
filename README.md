@@ -26,5 +26,5 @@ This is a full-featured **Hotel Booking System** designed using only MySQL. It m
 3. Run the script in the provided `.sql` file:
 
 ```bash
-source hotel_booking_system.sql;
-# Database-week-8-project
+source hotelbookingsystem.sql;
+# Data base project
