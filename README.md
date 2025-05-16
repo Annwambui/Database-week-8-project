@@ -6,7 +6,7 @@ This is a full-featured **Hotel Booking System** designed using only MySQL. It m
 
 ---
 
-## ⚙Features
+## Features
 
 - Guest registration
 - Room classification (features, bed types)
@@ -27,4 +27,5 @@ This is a full-featured **Hotel Booking System** designed using only MySQL. It m
 
 ```bash
 source hotelbookingsystem.sql;
-# Data base project
+# Database-week-8-project
+
